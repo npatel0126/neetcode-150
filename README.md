@@ -34,7 +34,7 @@ Welcome to my tracking repository for the **NeetCode 150**. This README helps me
 ---
 
 ### 1. Array & Hashing
-- [ ] Contains Duplicate
+- [x] Contains Duplicate
 - [ ] Valid Anagram
 - [ ] Two Sum
 - [ ] Group Anagrams
@@ -45,7 +45,7 @@ Welcome to my tracking repository for the **NeetCode 150**. This README helps me
 - [ ] Longest Consecutive Sequence
 
 ### 2. Two Pointers
-- [ ] Valid Palindrome
+- [x] Valid Palindrome
 - [ ] Two Sum II - Input Array Is Sorted
 - [ ] 3Sum
 - [ ] Container With Most Water
@@ -69,7 +69,7 @@ Welcome to my tracking repository for the **NeetCode 150**. This README helps me
 - [ ] Largest Rectangle in Histogram
 
 ### 5. Binary Search
-- [ ] Binary Search
+- [x] Binary Search
 - [ ] Search a 2D Matrix
 - [ ] Koko Eating Bananas
 - [ ] Find Minimum in Rotated Sorted Array
