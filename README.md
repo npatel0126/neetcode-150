@@ -15,10 +15,10 @@ Welcome to my tracking repository for the **NeetCode 150**. This README helps me
 * [ ] [Array & Hashing](#1-array--hashing) (1 / 9)
 * [ ] [Two Pointers](#2-two-pointers) (1 / 5)
 * [ ] [Sliding Window](#3-sliding-window) (0 / 6)
-* [ ] [Stack](#4-stack) (0 / 7)
+* [ ] [Stack](#4-stack) (1 / 7)
 * [ ] [Binary Search](#5-binary-search) (1 / 7)
-* [ ] [Linked List](#6-linked-list) (0 / 11)
-* [ ] [Trees](#7-trees) (0 / 15)
+* [ ] [Linked List](#6-linked-list) (1 / 11)
+* [ ] [Trees](#7-trees) (1 / 15)
 * [ ] [Tries](#8-tries) (0 / 3)
 * [ ] [Backtracking](#9-backtracking) (0 / 9)
 * [ ] [Heap / Priority Queue](#10-heap--priority-queue) (0 / 7)
@@ -60,7 +60,7 @@ Welcome to my tracking repository for the **NeetCode 150**. This README helps me
 - [ ] Sliding Window Maximum
 
 ### 4. Stack
-- [ ] Valid Parentheses
+- [x] Valid Parentheses
 - [ ] Min Stack
 - [ ] Evaluate Reverse Polish Notation
 - [ ] Generate Parentheses
@@ -78,7 +78,7 @@ Welcome to my tracking repository for the **NeetCode 150**. This README helps me
 - [ ] Median of Two Sorted Arrays
 
 ### 6. Linked List
-- [ ] Reverse Linked List
+- [x] Reverse Linked List
 - [ ] Merge Two Sorted Lists
 - [ ] Reorder List
 - [ ] Remove Nth Node From End of List
@@ -91,7 +91,7 @@ Welcome to my tracking repository for the **NeetCode 150**. This README helps me
 - [ ] Reverse Nodes in k-Group
 
 ### 7. Trees
-- [ ] Invert Binary Tree
+- [x] Invert Binary Tree
 - [ ] Maximum Depth of Binary Tree
 - [ ] Diameter of Binary Tree
 - [ ] Balanced Binary Tree
