@@ -5,7 +5,7 @@ Welcome to my tracking repository for the **NeetCode 150**. This README helps me
 ---
 
 ## 📊 Overall Progress
-* **Total Completed:** 0 / 150 (0%)
+* **Total Completed:** 6 / 150 (4%)
 * **Status:** In Progress ⏳
 
 ---
