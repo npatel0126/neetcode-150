@@ -13,8 +13,6 @@ Complexity:
 - Space: O(1) using constant extra space for pointers.
 """
 
-from typing import List
-
 class Solution:
     def search(self, nums: List[int], target: int) -> int:
         l, r = 0, len(nums) - 1 
