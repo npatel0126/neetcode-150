@@ -4,35 +4,6 @@ Welcome to my tracking repository for the **NeetCode 150**. This README helps me
 
 ---
 
-## 📊 Overall Progress
-* **Total Completed:** 6 / 150 (4%)
-* **Status:** In Progress ⏳
-
----
-
-## Categories
-
-* [ ] [Array & Hashing](#1-array--hashing) (1 / 9)
-* [ ] [Two Pointers](#2-two-pointers) (1 / 5)
-* [ ] [Sliding Window](#3-sliding-window) (0 / 6)
-* [ ] [Stack](#4-stack) (1 / 7)
-* [ ] [Binary Search](#5-binary-search) (1 / 7)
-* [ ] [Linked List](#6-linked-list) (1 / 11)
-* [ ] [Trees](#7-trees) (1 / 15)
-* [ ] [Tries](#8-tries) (0 / 3)
-* [ ] [Backtracking](#9-backtracking) (0 / 9)
-* [ ] [Heap / Priority Queue](#10-heap--priority-queue) (0 / 7)
-* [ ] [Graphs](#11-graphs) (0 / 13)
-* [ ] [Advanced Graphs](#12-advanced-graphs) (0 / 6)
-* [ ] [1D Dynamic Programming](#13-1d-dynamic-programming) (0 / 12)
-* [ ] [2D Dynamic Programming](#14-2d-dynamic-programming) (0 / 11)
-* [ ] [Greedy](#15-greedy) (0 / 8)
-* [ ] [Intervals](#16-intervals) (0 / 6)
-* [ ] [Math & Geometry](#17-math--geometry) (0 / 8)
-* [ ] [Bit Manipulation](#18-bit-manipulation) (0 / 7)
-
----
-
 ### 1. Array & Hashing
 - [x] Contains Duplicate
 - [ ] Valid Anagram
@@ -124,7 +95,7 @@ Welcome to my tracking repository for the **NeetCode 150**. This README helps me
 - [ ] N-Queens
 
 ### 10. Heap / Priority Queue
-- [ ] Kth Largest Element in a Stream
+- [x] Kth Largest Element in a Stream
 - [ ] Last Stone Weight
 - [ ] K Closest Points to Origin
 - [ ] Kth Largest Element in an Array
