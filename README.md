@@ -23,7 +23,7 @@ Welcome to my tracking repository for the **NeetCode 150**. This README helps me
 - [ ] Trapping Rain Water
 
 ### 3. Sliding Window
-- [ ] Best Time to Buy and Sell Stock
+- [x] Best Time to Buy and Sell Stock
 - [ ] Longest Substring Without Repeating Characters
 - [ ] Longest Repeating Character Replacement
 - [ ] Permutation in String
@@ -72,7 +72,7 @@ Welcome to my tracking repository for the **NeetCode 150**. This README helps me
 - [ ] Binary Tree Level Order Traversal
 - [ ] Binary Tree Right Side View
 - [ ] Count Good Nodes in Binary Tree
-- [ ] Validate Binary Search Tree
+- [x] Validate Binary Search Tree
 - [ ] Kth Smallest Element in a BST
 - [ ] Construct Binary Tree from Preorder and Inorder Traversal
 - [ ] Binary Tree Maximum Path Sum
