@@ -7,7 +7,7 @@ Welcome to my tracking repository for the **NeetCode 150**. This README helps me
 ### 1. Array & Hashing
 - [x] Contains Duplicate
 - [ ] Valid Anagram
-- [ ] Two Sum
+- [x] Two Sum
 - [ ] Group Anagrams
 - [ ] Top K Frequent Elements
 - [ ] Product of Array Except Self
