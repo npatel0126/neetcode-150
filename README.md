@@ -96,7 +96,7 @@ Welcome to my tracking repository for the **NeetCode 150**. This README helps me
 
 ### 10. Heap / Priority Queue
 - [x] Kth Largest Element in a Stream
-- [ ] Last Stone Weight
+- [x] Last Stone Weight
 - [ ] K Closest Points to Origin
 - [ ] Kth Largest Element in an Array
 - [ ] Task Scheduler
@@ -126,7 +126,7 @@ Welcome to my tracking repository for the **NeetCode 150**. This README helps me
 - [ ] Cheapest Flights Within K Stops
 
 ### 13. 1D Dynamic Programming
-- [ ] Climbing Stairs
+- [x] Climbing Stairs
 - [ ] Min Cost Climbing Stairs
 - [ ] House Robber
 - [ ] House Robber II
