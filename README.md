@@ -66,7 +66,7 @@ Welcome to my tracking repository for the **NeetCode 150**. This README helps me
 - [ ] Maximum Depth of Binary Tree
 - [ ] Diameter of Binary Tree
 - [ ] Balanced Binary Tree
-- [ ] Same Tree
+- [x] Same Tree
 - [ ] Subtree of Another Tree
 - [ ] Lowest Common Ancestor of a Binary Search Tree
 - [ ] Binary Tree Level Order Traversal
