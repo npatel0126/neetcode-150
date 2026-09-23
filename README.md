@@ -6,7 +6,7 @@ Welcome to my tracking repository for the **NeetCode 150**. This README helps me
 
 ### 1. Array & Hashing
 - [x] Contains Duplicate
-- [ ] Valid Anagram
+- [x] Valid Anagram
 - [x] Two Sum
 - [ ] Group Anagrams
 - [ ] Top K Frequent Elements
@@ -55,7 +55,7 @@ Welcome to my tracking repository for the **NeetCode 150**. This README helps me
 - [ ] Remove Nth Node From End of List
 - [ ] Copy List with Random Pointer
 - [ ] Add Two Numbers
-- [ ] Linked List Cycle
+- [x] Linked List Cycle
 - [ ] Find the Duplicate Number
 - [ ] LRU Cache
 - [ ] Merge k Sorted Lists
@@ -63,7 +63,7 @@ Welcome to my tracking repository for the **NeetCode 150**. This README helps me
 
 ### 7. Trees
 - [x] Invert Binary Tree
-- [ ] Maximum Depth of Binary Tree
+- [x] Maximum Depth of Binary Tree
 - [ ] Diameter of Binary Tree
 - [ ] Balanced Binary Tree
 - [x] Same Tree
