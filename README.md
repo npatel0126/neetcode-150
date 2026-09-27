@@ -41,7 +41,7 @@ Welcome to my tracking repository for the **NeetCode 150**. This README helps me
 
 ### 5. Binary Search
 - [x] Binary Search
-- [ ] Search a 2D Matrix
+- [x] Search a 2D Matrix
 - [ ] Koko Eating Bananas
 - [ ] Find Minimum in Rotated Sorted Array
 - [ ] Search in Rotated Sorted Array
@@ -50,7 +50,7 @@ Welcome to my tracking repository for the **NeetCode 150**. This README helps me
 
 ### 6. Linked List
 - [x] Reverse Linked List
-- [ ] Merge Two Sorted Lists
+- [x] Merge Two Sorted Lists
 - [ ] Reorder List
 - [ ] Remove Nth Node From End of List
 - [ ] Copy List with Random Pointer
@@ -166,7 +166,7 @@ Welcome to my tracking repository for the **NeetCode 150**. This README helps me
 - [ ] Insert Interval
 - [ ] Merge Intervals
 - [ ] Non-Overlapping Intervals
-- [ ] Meeting Rooms
+- [x] Meeting Rooms
 - [ ] Meeting Rooms II
 - [ ] Minimum Interval to Include Each Query
 
