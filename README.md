@@ -8,23 +8,23 @@ Welcome to my tracking repository for the **NeetCode 150**. This README helps me
 - [x] Contains Duplicate
 - [x] Valid Anagram
 - [x] Two Sum
-- [ ] Group Anagrams
-- [ ] Top K Frequent Elements
-- [ ] Product of Array Except Self
-- [ ] Valid Sudoku
-- [ ] Encode and Decode Strings
-- [ ] Longest Consecutive Sequence
+- [x] Group Anagrams
+- [x] Top K Frequent Elements
+- [x] Product of Array Except Self
+- [x] Valid Sudoku
+- [x] Encode and Decode Strings
+- [x] Longest Consecutive Sequence
 
 ### 2. Two Pointers
 - [x] Valid Palindrome
-- [ ] Two Sum II - Input Array Is Sorted
-- [ ] 3Sum
-- [ ] Container With Most Water
+- [x] Two Sum II - Input Array Is Sorted
+- [x] 3Sum
+- [x] Container With Most Water
 - [ ] Trapping Rain Water
 
 ### 3. Sliding Window
 - [x] Best Time to Buy and Sell Stock
-- [ ] Longest Substring Without Repeating Characters
+- [x] Longest Substring Without Repeating Characters
 - [ ] Longest Repeating Character Replacement
 - [ ] Permutation in String
 - [ ] Minimum Window Substring
@@ -32,9 +32,9 @@ Welcome to my tracking repository for the **NeetCode 150**. This README helps me
 
 ### 4. Stack
 - [x] Valid Parentheses
-- [ ] Min Stack
-- [ ] Evaluate Reverse Polish Notation
-- [ ] Generate Parentheses
+- [x] Min Stack
+- [x] Evaluate Reverse Polish Notation
+- [x] Generate Parentheses
 - [ ] Daily Temperatures
 - [ ] Car Fleet
 - [ ] Largest Rectangle in Histogram
@@ -84,7 +84,7 @@ Welcome to my tracking repository for the **NeetCode 150**. This README helps me
 - [ ] Word Search II
 
 ### 9. Backtracking
-- [ ] Subsets
+- [x] Subsets
 - [ ] Combination Sum
 - [ ] Combination Sum II
 - [ ] Permutations
@@ -133,7 +133,7 @@ Welcome to my tracking repository for the **NeetCode 150**. This README helps me
 - [ ] Longest Palindromic Substring
 - [ ] Palindromic Substrings
 - [ ] Decode Ways
-- [ ] Coin Change
+- [x] Coin Change
 - [ ] Maximum Product Subarray
 - [ ] Word Break
 - [ ] Longest Increasing Subsequence
